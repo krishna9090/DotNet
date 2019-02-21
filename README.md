@@ -46,7 +46,7 @@ There are many projects that you can use and contribute to, some of which are li
 - [Xamarin Forms (xamarin/Xamarin.Forms)](https://github.com/xamarin/Xamarin.Forms)
 - [Mono Project](https://github.com/mono/)
 
-### Community
+### Community Hello
 
 Here is a short list of projects to check out:
 
