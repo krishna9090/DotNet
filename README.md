@@ -16,7 +16,7 @@ You can try out an early access release of the .NET Framework at the [.NET Frame
 
 Please contribute to this repository via [pull requests](https://github.com/Microsoft/dotnet/pulls)
 
-## Finding .NET Open Source Projects
+## Finding .NET Open Source Projects jjkffghj
 
 Here are some excellent community-maintained lists of projects:
 
